@@ -15,4 +15,4 @@
 # vendor/
 
 # profiling logs
-cpu.log
+*cpu.log
