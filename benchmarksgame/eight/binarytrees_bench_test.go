@@ -1,3 +1,7 @@
+// Benchmark for program #8
+//
+// Author Viktor Seifert
+
 package main
 
 import "testing"
