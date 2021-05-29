@@ -5,6 +5,9 @@
 // The Computer Language Benchmarks Game
 //
 
+// This is actually against the rules of the Benchmarks Game.
+// I added this to be able to check how "fast" tree traversal is.
+
 package main
 
 import (
