@@ -16,3 +16,4 @@
 
 # profiling logs
 *cpu.log
+*mem.log
